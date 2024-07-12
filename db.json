@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Conheça o dragão formador de estrelas!",
+            "categoria": "lol",
+            "imagem": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+            "link": "https://www.youtube.com/embed/FGvgNIeSdkc?si=BeQKCVNzc3K8Eh6o",
+            "descricao": "Teaser do dragão mago forjador de estrelas (Aurelion Sol)."
+        },
+        {
+            "id": 2,
+            "titulo": "Furina, a 'Arconte' da nação Hydro!",
+            "categoria": "genshin",
+            "imagem": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113484/1a0e331a984e482f84433eac47cd5e3b_1217371561545932985.jpg",
+            "link": "https://www.youtube.com/embed/EN79SfbcvIE?si=gf8zoy_I-z1MKo0r",
+            "descricao": "Demonstração da personagem Furina, em uma atuação magnífica com seus mascotes e amigos!"
+        },
+        {
+            "id": 3,
+            "titulo": "Acheron lutando contra os caçadores de Stelaron!",
+            "categoria": "honkai",
+            "imagem": "https://i.ytimg.com/vi/IQQPDPAvxTg/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/IQQPDPAvxTg?si=g9XrnMoglfjgw2Ff",
+            "descricao": "Trailer da personagem Acheron, que pertence ao caminho da Inexistência e é uma ótima DPS do elemento raio."
+        }
+    ]
+}
