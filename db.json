@@ -23,6 +23,54 @@
             "imagem": "https://i.ytimg.com/vi/IQQPDPAvxTg/maxresdefault.jpg",
             "link": "https://www.youtube.com/embed/IQQPDPAvxTg?si=g9XrnMoglfjgw2Ff",
             "descricao": "Trailer da personagem Acheron, que pertence ao caminho da Inexistência e é uma ótima DPS do elemento raio."
+        },
+        {
+            "id": 4,
+            "titulo": "Trailer do evento esquadrão anima!",
+            "categoria": "lol",
+            "imagem": "https://i.ytimg.com/vi/dtVpakzCKtg/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/dtVpakzCKtg?si=OuRHB1HEZcwQrStz",
+            "descricao": "Terá novas skins e um modo de jogo exclusivo."
+        },
+        {
+            "id": 5,
+            "titulo": "Teaser de skins congregação das bruxas!",
+            "categoria": "lol",
+            "imagem": "https://i.ytimg.com/vi/caBiG3I8Sqg/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/caBiG3I8Sqg?si=ICpOinx34rPqqzMJ",
+            "descricao": "Teaser de lançamento de novas skins."
+        },
+        {
+            "id": 6,
+            "titulo": "Teaser da personagem Clorinde!",
+            "categoria": "genshin",
+            "imagem": "https://psxbrasil.com.br/wp-content/uploads/2024/05/btAgDq44a74hd.jpg",
+            "link": "https://www.youtube.com/embed/btAgDq44a74?si=eibqpOKAi890O_zp",
+            "descricao": "Teaser da personagem Clorinde, que é do elemento eletro e empunha espada."
+        },
+        {
+            "id": 7,
+            "titulo": "Teaser da nova área jogável de Natlan!",
+            "categoria": "genshin",
+            "imagem": "https://fastcdn.hoyoverse.com/content-v2/hk4e/124753/fb6592b0fc6d1c9f4dcf7a047aebe310_6475298329190896558.jpg",
+            "link": "https://www.youtube.com/embed/O2ATH__rtQo?si=CM0awq7xD56w_uRT",
+            "descricao": "Teaser com vários detalhes sobre a nova área."
+        },
+        {
+            "id": 8,
+            "titulo": "Trailer da personagem Jade!",
+            "categoria": "honkai",
+            "imagem": "https://fastcdn.hoyoverse.com/content-v2/hkrpg/124695/1c1c3bed35974759f3de73105ba53bb4_5459752796091028193.jpg",
+            "link": "https://www.youtube.com/embed/PSjczeQfOZs?si=tNCXXE4RNyUufgeC",
+            "descricao": "Trailer da personagem Jade, que pertence ao caminho da Erudição e é uma ótima DPS do elemento quântico."
+        },
+        {
+            "id": 9,
+            "titulo": "Trailer da personagem Vaga-Lume",
+            "categoria": "honkai",
+            "imagem": "https://i.ytimg.com/vi/eFXQqY3ia6k/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/eFXQqY3ia6k?si=FMvFZk1sB-ZhKJaM",
+            "descricao": "Trailer da personagem Vaga-Lume, que pertence ao caminho da Destruição e é uma ótima DPS do elemento fogo."
         }
     ]
 }
